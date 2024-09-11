@@ -2,7 +2,7 @@
 
 async function main() {
  
-  const CS = await hre.ethers.getContractCats("Cats");
+  const CS = await hre.ethers.getContractFactory("Cats");
 
   const cats = await CS.deploy();
 
