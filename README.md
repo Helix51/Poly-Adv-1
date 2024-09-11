@@ -118,6 +118,6 @@ All the following scripts need to be run for the full project functionality:
 
 ## License
 
-This project is Unlicensed and is done by @HElix51 as a Simple Project.(Not For Commercial use)
+This project is Unlicensed and is done by @Helix51 as a Simple Project.(Not For Commercial use)
 
 
