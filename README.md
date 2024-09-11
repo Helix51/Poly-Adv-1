@@ -82,6 +82,15 @@ npx hardhat run scripts/mint.js --network sepolia
 
 You cannot mint more than 5 NFTs, as per the contract’s limitations.
 
+### Bridging NFTs between networks
+
+After the NFTs are minted , you can transfer the NFTs (only the owner can perform this action). Use the `approveDeposit.js` script to Transfer the NFTs:
+
+```bash
+npx hardhat run scripts/approveDeposit.js --network sepolia
+```
+
+
 ### Prompt Description
 
 To view the prompt used to generate the NFT images, you can run the `promptDescription.js` script:
