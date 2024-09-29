@@ -10,7 +10,7 @@ require("dotenv").config();
 module.exports = {
   solidity: "0.8.20",
   networks: {
-    mumbai: {
+    amoy: {
       url: "https://polygon-amoy-bor-rpc.publicnode.com",
       accounts: [process.env.PRIVATE_KEY],
     },
