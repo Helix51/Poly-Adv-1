@@ -2,7 +2,7 @@
 
 # Cats NFT Collection (ERC721A)
 
-This project implements an ERC721A contract named `Cats`, allowing the creation and minting of a limited NFT collection based on different cat breeds. The NFT images were created using DALL-E with a specific prompt. The contract is deployed on the Sepolia network.
+This project implements an ERC721A contract named `Cats`, allowing the creation and minting of a limited NFT collection based on different cat breeds. The NFT images were created using DALL-E with a specific prompt. The contract is deployed on the Sepolia network.the NFT's are transferred from sepoliya to amolia for bridging
 
 ## Table of Contents
 
